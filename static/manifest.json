@@ -1,5 +1,5 @@
 {
-	"name": "GradeVue",
+	"name": "GradeView",
 	"description": "An improved StudentVue experience, with calculators and tools to help you understand your grade.",
 	"start_url": "/grades",
 	"display": "standalone",
@@ -8,7 +8,7 @@
 	"icons": [
 		{
 			"src": "/pwa-64x64.png",
-			"sizes": "64x64",
+			"sizes": "64x64",s
 			"type": "image/png"
 		},
 		{
